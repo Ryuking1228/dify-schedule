@@ -2,7 +2,7 @@ name: Auto　X
 
 on:
   schedule:
-    - cron: "35 6 * * *" # JPN 15:35
+    - cron: "31 8 * * *" # JPN 17:41
   workflow_dispatch:
 
 env:
